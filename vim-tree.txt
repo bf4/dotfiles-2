@@ -1,0 +1,48 @@
+.vim
+├── autoload
+│   └── pathogen.vim
+├── bundle
+│   ├── ctrlp.vim
+│   │   ├── autoload
+│   │   │   ├── ctrlp
+│   │   │   │   ├── bookmarkdir.vim
+│   │   │   │   ├── buffertag.vim
+│   │   │   │   ├── changes.vim
+│   │   │   │   ├── dir.vim
+│   │   │   │   ├── line.vim
+│   │   │   │   ├── mixed.vim
+│   │   │   │   ├── mrufiles.vim
+│   │   │   │   ├── quickfix.vim
+│   │   │   │   ├── rtscript.vim
+│   │   │   │   ├── tag.vim
+│   │   │   │   ├── undo.vim
+│   │   │   │   └── utils.vim
+│   │   │   └── ctrlp.vim
+│   │   ├── doc
+│   │   │   └── ctrlp.txt
+│   │   ├── plugin
+│   │   │   └── ctrlp.vim
+│   │   └── readme.md
+│   └── vim-jade
+│       ├── README.markdown
+│       ├── ftdetect
+│       │   └── jade.vim
+│       ├── ftplugin
+│       │   └── jade.vim
+│       ├── indent
+│       │   └── jade.vim
+│       └── syntax
+│           └── jade.vim
+├── colors
+│   └── ir_black.vim
+├── ftdetect
+│   └── mkd.vim
+└── syntax
+    ├── coffee.vim
+    ├── cucumber.vim
+    ├── flexverb.vim
+    ├── handlebars.vim
+    ├── mkd.vim
+    └── scss.vim
+
+15 directories, 30 files
